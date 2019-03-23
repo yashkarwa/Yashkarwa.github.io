@@ -1,0 +1,42 @@
+# Site settings
+title: Code · Data Science
+email: hadrienjean@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Programming and data science articles by hadrienj
+baseurl: "" # the subpath of your site, e.g. /blog
+lang: "en"
+url: "https://hadrienj.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  hadrienj
+disqus_username:
+
+# Build settings
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
+   syntax_highlighter: rouge
+permalink: /:categories/:title/
+
+# Posts settings
+future: true
+safe: false
+lsi: false
+excerpt_separator: "\n\n\n"
+
+# Theme settings
+compress_html:
+  comments: ["<!-- ", " -->"]
+  clippings: all
+  endings: all
+
+
+sass:
+  sass_dir: assets/_sass
+  style: compressed
+
+
+images: '/assets/images'
+tag_page: '/tags'
+
+plugins:
+  - jekyll-seo-tag
