@@ -34,10 +34,6 @@ Passionate about data analysis, data science, machine learning and deep learning
         <div class='skills-col'>
             <div class="skills-cat">Visualization</div>
             <div class="skills-item">
-                <img src="../../assets/images/icons/matplotlib.png" width="30" alt="Matplotlib icon" title="Matplotlib">
-                Matplotlib
-            </div>
-            <div class="skills-item">
                 <img src="../../assets/images/icons/d3.png" width="30" alt="D3 icon" title="D3">
                 D3
             </div>
@@ -81,9 +77,9 @@ Passionate about data analysis, data science, machine learning and deep learning
     <div>
         <img src="../../assets/images/flat_web_icon_set/color/Email.png" width="30" alt="email icon" title="Email">
     </div>
-    <a href="mailto:code.datascience@gmail.com">
+    <a href="mailto:karwa.yashu@gmail.com">
         <div class='connect-text'>
-            Drop me an email (code.datascience@gmail.com)
+            Drop me an email (karwa.yashu@gmail.com)
         </div>
     </a>
 </div>
@@ -92,7 +88,7 @@ Passionate about data analysis, data science, machine learning and deep learning
     <div>
         <img src="../../assets/images/flat_web_icon_set/color/LinkedIn.png" width="30" alt="linkedin icon" title="Linkedin">
     </div>
-    <a href="https://www.linkedin.com/in/hadrienj/">
+    <a href="https://www.linkedin.com/in/karwayash/">
         <div class='connect-text'>
             Say hello on Linkedin (hadrienj)
         </div>
@@ -103,9 +99,9 @@ Passionate about data analysis, data science, machine learning and deep learning
     <div>
         <img src="../../assets/images/flat_web_icon_set/color/Twitter.png" width="30" alt="twitter icon" title="Twitter">
     </div>
-    <a href="https://twitter.com/_hadrienj">
+    <a href="">
         <div class='connect-text'>
-            Find me on Twitter (_hadrienj)
+            Find me on Twitter ()
         </div>
     </a>
 </div>
