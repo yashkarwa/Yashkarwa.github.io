@@ -1,13 +1,13 @@
 # Site settings
-title: Code · Data Science
-email: hadrienjean@gmail.com
+title: Applied Data Science & Business
+email: karwa.yashu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Programming and data science articles by hadrienj
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "https://hadrienj.github.io" # the base hostname & protocol for your site
+url: "https://yashkarwa.github.io" # the base hostname & protocol for your site
 twitter_username:
-github_username:  hadrienj
+github_username:  
 disqus_username:
 
 # Build settings
