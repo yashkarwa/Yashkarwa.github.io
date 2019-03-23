@@ -1,10 +1,10 @@
 ---
-bg: "about.jpg"
+bg: "About_neu.jpeg"
 layout: page
 title: "About"
 crawlertitle: "About"
 permalink: /about/
-summary: "hadrienj. <br>PhD student . Cognitive Science <br>ENS - Paris, France"
+summary: "Yash Karwa <br>Data Analytics - Data Science <br> Portland, US"
 active: about
 ---
 
