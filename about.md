@@ -90,7 +90,7 @@ Passionate about data analysis, data science, machine learning and deep learning
     </div>
     <a href="https://www.linkedin.com/in/karwayash/">
         <div class='connect-text'>
-            Say hello on Linkedin (hadrienj)
+            Say hello on Linkedin (Yash Karwa)
         </div>
     </a>
 </div>
