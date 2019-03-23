@@ -1,10 +1,10 @@
 ---
 bg: "About_neu.jpeg"
 layout: page
-title: "<br><br><br><br><br><br>About"
+title: "About"
 crawlertitle: "About"
 permalink: /about/
-summary: "br><br><br><br><br><br>Yash Karwa br><br><br><br><br><br><br>Data Analytics - Data Science br><br><br><br><br><br><br> Portland, US"
+summary: "Yash Karwa <br>Data Analytics - Data Science <br> Portland, US"
 active: about
 ---
 
