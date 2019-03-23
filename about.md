@@ -9,7 +9,8 @@ active: about
 ---
 
 <div class="intro">
-    I'm currently doing a PhD (end Dec. 2018) in Cognitive Sciences at the <img class="inline-icon" src="../../assets/images/icons/ens_crop.png" width="30" alt="ens icon" title="ENS"> &Eacute;cole Normale Supérieure (ENS) in Paris, France. I'm studying auditory perceptual learning (pitch perception and auditory selective attention) using psychophysics and electrophysiology (EEG).
+    A distinguished full-stack data scientist with extensive experience in competitive data science, research, building a bridge between business problems and providing end-to-end solutions to several real-world business across multiple domains.
+		   He's a proven result-oriented team player with an eye for detail, continuously seeking impactful data science projects and leveraging cutting edge data science tools and techniques to create state of the art intelligent data systems.
 </div>
 
 <h2 class='about-h2'>Web Development - Full-Stack</h2>
