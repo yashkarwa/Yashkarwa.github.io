@@ -6,7 +6,7 @@ mathjax: true
 title: "Smartsheet Integration BigQuery"
 crawlertitle: "Smartsheet Integration BigQuery"
 categories: posts
-tags: ['linear-algebra', 'python', 'numpy', 'deep-learning']
+tags: ['smartsheet', 'python', 'numpy', 'deep-learning']
 author: Yash Karwa
 jupyter: https://github.com/hadrienj/Preprocessing-for-deep-learning
 twitterImg: Preprocessing-for-deep-learning/rotation_small
