@@ -8,7 +8,7 @@ crawlertitle: "Smartsheet Integration BigQuery"
 categories: posts
 tags: ['smartsheet', 'python', 'numpy', 'deep-learning']
 author: Yash Karwa
-jupyter: https://github.com/hadrienj/Preprocessing-for-deep-learning
+jupyter: https://github.com/yashkarwa/
 twitterImg: Preprocessing-for-deep-learning/rotation_small
 excerpt: "The goal of the project is to scrape data from Smartsheet and Integration to BigQuery (Google Cloud Product) "
 excerpt-image: '<img src="../../assets/images/Preprocessing-for-deep-learning/rotation.png" width="500" alt="Rotation to decorrelate the data" title="The rotation can decorrelate the data.">
