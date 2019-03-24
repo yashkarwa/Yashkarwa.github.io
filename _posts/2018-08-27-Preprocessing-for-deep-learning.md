@@ -7,7 +7,7 @@ title: "Preprocessing for deep learning: from covariance matrix to image whiteni
 crawlertitle: "Pre-processing for deep learning: from covariance matrix to image whitening"
 categories: posts
 tags: ['linear-algebra', 'python', 'numpy', 'deep-learning']
-author: hadrienj
+author: Yash Karwa
 jupyter: https://github.com/hadrienj/Preprocessing-for-deep-learning
 twitterImg: Preprocessing-for-deep-learning/rotation_small
 excerpt: "The goal of this post/notebook is to go from the basics of data preprocessing to modern techniques used in deep learning. My point is that we can use code to better understand abstract mathematical notions! Thinking by coding! 💥"
