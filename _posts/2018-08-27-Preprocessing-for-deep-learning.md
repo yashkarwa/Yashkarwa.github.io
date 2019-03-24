@@ -3,8 +3,8 @@ bg: "smartsheet.png "
 layout: post
 date: 2018-08-27
 mathjax: true
-title: "Preprocessing for deep learning: from covariance matrix to image whitening"
-crawlertitle: "Pre-processing for deep learning: from covariance matrix to image whitening"
+title: "Smartsheet Integration BigQuery"
+crawlertitle: "Smartsheet Integration BigQuery"
 categories: posts
 tags: ['linear-algebra', 'python', 'numpy', 'deep-learning']
 author: Yash Karwa
