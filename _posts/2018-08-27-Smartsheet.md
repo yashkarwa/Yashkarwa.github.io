@@ -11,7 +11,7 @@ author: Yash Karwa
 jupyter: https://github.com/yashkarwa/
 twitterImg: Preprocessing-for-deep-learning/rotation_small
 excerpt: "The goal of the project is to scrape data from Smartsheet and Integration to BigQuery (Google Cloud Product) "
-excerpt-image: '<img src="../../assets/images/Preprocessing-for-deep-learning/rotation.png" width="500" alt="Rotation to decorrelate the data" title="The rotation can decorrelate the data.">
+excerpt-image: '<img src="../../assets/images/smartsheet_bq.png" width="500" alt="Smartsheet Integration BigQuery" title="Smartsheet Integration BigQuery">
 <em> snapshot</em>'
 ---
 
