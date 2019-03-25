@@ -1,9 +1,9 @@
 ---
 bg: "deep-learning-book-goodfellow-cover.jpg"
 layout: page
-title: "Deep Learning Book Series"
-crawlertitle: "deep-learning-book-series-home"
-permalink: /deep-learning-book-series-home/
+title: "customer-analytics"
+crawlertitle: "customer-analytics"
+permalink: /customer-analytics/
 summary: ""
 ---
 
