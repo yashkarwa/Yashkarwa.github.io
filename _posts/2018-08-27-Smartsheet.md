@@ -32,7 +32,17 @@ Here is the table of contents of this tutorial:
 5. **Load dataframe to BigQuery**: In the last part, load final dataframe to BigQuery.
 
 
-  
+# 1. Load Packages  
 
 
-
+```python
+import json
+import os
+import requests
+import smartsheet, csv
+from IPython.display import Image
+import pandas.io.gbq as pd_gbq
+import pandas as pd
+import warnings
+warnings.filterwarnings('ignore')
+```
