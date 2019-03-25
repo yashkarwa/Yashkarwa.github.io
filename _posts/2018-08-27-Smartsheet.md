@@ -17,7 +17,19 @@ excerpt-image: '<img src="../../assets/images/smartsheet_bq.png" width="500" alt
 
 A notebook version of this post can be found [here](https://github.com/yashkarwa) on Github.
 
-The goal of this post/notebook is to go from the basics of data preprocessing to modern techniques used in deep learning. My point is that we can use code (Python/Numpy etc.) to better understand abstract mathematical notions! Thinking by coding! 💥
+The goal of this post/notebook is to go from the basics of data preprocessing or scraping data from smartsheet, consolidate the data and store result in BigQuery.
+
+Here is the table of contents of this tutorial:
+
+1. **Load Packages**: In the first part, we will install smartsheet in python environment and load package in environment.
+
+2. **Create Smartsheet ID's for each sheet**: In the second part, we will create Smartsheet Developer Key.
+
+3. **Find Smartsheet ID's for each sheet**: In the third part, we will find smartsheet ID's for each sheet and extract data for identified sheet.
+
+4. **Data Preprocessing**: In the fourth part, we will extract content of identified page.
+
+5. **Load dataframe to BigQuery**: In the last part, load final dataframe to BigQuery.
 
 
   
