@@ -1,5 +1,5 @@
 ---
-bg: "deep-learning-book-goodfellow-cover.jpg"
+bg: "customer-data.jpg"
 layout: page
 title: "customer-analytics"
 crawlertitle: "customer-analytics"
