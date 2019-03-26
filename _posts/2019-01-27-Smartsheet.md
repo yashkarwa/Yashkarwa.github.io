@@ -1,7 +1,7 @@
 ---
 bg: "smartsheet.png "
 layout: post
-date: 2018-08-27
+date: 2019-01-27
 mathjax: true
 title: "Smartsheet Integration BigQuery"
 crawlertitle: "Smartsheet Integration BigQuery"
