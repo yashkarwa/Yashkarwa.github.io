@@ -12,7 +12,7 @@ jupyter: https://github.com/yashkarwa/
 twitterImg: Preprocessing-for-deep-learning/rotation_small
 excerpt: "The goal of the project is to scrape data from Smartsheet and Integration to BigQuery (Google Cloud Product) "
 excerpt-image: '<img src="../../assets/images/smartsheet_bq.png" width="500" alt="Smartsheet Integration BigQuery" title="Smartsheet Integration BigQuery">
-<em> snapshot</em>'
+<em> Scrape dara from smartsheet to bigquery </em>'
 ---
 
 A notebook version of this post can be found [here](https://github.com/yashkarwa) on Github.
