@@ -56,9 +56,9 @@ warnings.filterwarnings('ignore')
 
 ## 2. Create Smartsheet Developer Key 
 
-A. Go to Smartsheet web portal > Profile > Apps & Integration
-B. Click API Access > Generate new access token
-C. Finally, make sure to save your API token.
+- Go to Smartsheet web portal > Profile > Apps & Integration
+- Click API Access > Generate new access token
+- Finally, make sure to save your API token.
 
 **Note** : You cannot save your token later. In case missed, re-create a new one.
 
@@ -82,3 +82,47 @@ for single_sheet in response.data:
 123456789012  smartsheet_name_1
 123456789013  smartsheet_name_2
 </pre>
+
+
+## 3. Data Preprocessing
+
+Load data for identified smartsheet. For example, if we would like to scrape data for smartsheetname : smartsheet_name_2. Add smartsheet ID below
+
+```python
+# Extract the conetent of Programs; JSON object
+# Header details as described on SmartSheet Developer Page. 
+
+smartsheet = 'https://api.smartsheet.com/2.0/sheets/'
+sheetid = <SMARTSHEET ID>
+uri = smartsheet + sheetid
+header = {'Authorization': "Bearer <INSERT KEY HERE>" ,
+          'Content-Type': 'application/json'}
+
+req = requests.get(uri, headers=header)
+data = json.loads(req.text)
+
+cols = []
+for col in data['columns']:
+    cols.append(col['title'])
+ 
+df = pd.DataFrame(columns=cols)
+ 
+for row in data['rows']:
+    values = [] #re-initilise the values list for each row
+    for cell in row['cells']:
+        if cell.get('value'): #handle the empty values
+            values.append( cell['value'])
+        else:
+            values.append('')
+    df = df.append(dict(zip(cols, values)), ignore_index=True)
+```
+
+## 4. Load dataframe to BigQuery 
+
+```python
+#Need to rename columns for BQ to capture (with allowed BQ specification)
+df.columns = ['A', 'B']
+
+#Project Name 
+project_id = 'INSERT-PROJECT-NAME'
+pd_gbq.to_gbq(df, 'DATSET-NAME', project_id, if_exists='replace')
