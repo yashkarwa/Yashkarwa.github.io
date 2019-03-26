@@ -126,3 +126,4 @@ df.columns = ['A', 'B']
 #Project Name 
 project_id = 'INSERT-PROJECT-NAME'
 pd_gbq.to_gbq(df, 'DATSET-NAME', project_id, if_exists='replace')
+```
