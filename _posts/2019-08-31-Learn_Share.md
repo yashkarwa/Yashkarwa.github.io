@@ -1,7 +1,7 @@
 ---
 bg: ""
 layout: post
-date: 2019-06-27
+date: 2019-08-31
 mathjax: true
 title: "Learning & Sharing"
 crawlertitle: "Learning & Sharing"
@@ -28,6 +28,7 @@ The goal of the future post is to share knowledge, learn & share, simple & sweet
 	- Bootcamps, offline / online course, apprentice program are really expensive, with little/no value add!
 	- Share, Learn and revist past learnings.
 	- Introduce DS concepts to Business stakeholders.
+	
 
 4. **How / What Blog will be shared?**: 
     - Transition Business Problem to ML/DS Problem.
