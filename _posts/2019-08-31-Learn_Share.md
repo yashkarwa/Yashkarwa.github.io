@@ -27,7 +27,7 @@ The goal of the future post is to share knowledge, learn & share, simple & sweet
 	- Perfect blend of APPLIED DS / ML in business context.
 	- Bootcamps, offline / online course, apprentice program are really expensive, with little/no value add!
 	- Share, Learn and revist past learnings.
-	- Introduce DS concepts to Business stakeholders
+	- Introduce DS concepts to Business stakeholders.
 
 4. **How / What Blog will be shared?**: 
     - Transition Business Problem to ML/DS Problem.
