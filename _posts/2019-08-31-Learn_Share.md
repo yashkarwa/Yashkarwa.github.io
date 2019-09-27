@@ -28,6 +28,8 @@ Due to multiple requests - I have to prioritize different use-cases and focus on
 4. **Data:** Proprietary data (code will not be shared on Github)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 1. **Future Post Context**: Primarly, I would focus on how would you take the Data Science + ML from Academia to Business settings in Solving a problem includes Technical, Business and Product Management.
 
 2. **Academia & Industry Experience**: 10+ Years of Experience in Data Analytics.
