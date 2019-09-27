@@ -8,7 +8,6 @@ crawlertitle: "Learning & Sharing"
 categories: posts
 tags: ['Learning', 'Sharing', 'vision', 'value']
 author: Yash Karwa
-jupyter: https://github.com/yashkarwa/
 twitterImg: 
 excerpt: "The goal of the future post is to share knowledge, learn & share, simple & sweet!"
 excerpt-image: '<img src="../../assets/images/learn_share.png" width="125" alt="Learning & Sharing" title="Learning & Sharing">
