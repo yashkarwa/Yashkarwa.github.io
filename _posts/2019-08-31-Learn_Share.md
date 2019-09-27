@@ -22,10 +22,10 @@ As part of WEEKLY's - Business Case Solution, I will post solution (& past solut
 
 Due to multiple requests - I have to prioritize different use-cases and focus only on the first-cut model
 
-**Time spend by me:** < 10 hours/Week (Busy in office hours; please define your business problem clearly)
-**Fees:** FREE
-**Reach-out:** yashkarwa.ms@gmail.com
-**Data:** Proprietary data (code will not be shared on Github)
+1. **Time spend by me:** < 10 hours/Week (Busy in office hours; please define your business problem clearly)
+2. **Fees:** FREE
+3. **Reach-out:** <a>yashkarwa.ms@gmail.com<\a>
+4. **Data:** Proprietary data (code will not be shared on Github)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. **Future Post Context**: Primarly, I would focus on how would you take the Data Science + ML from Academia to Business settings in Solving a problem includes Technical, Business and Product Management.
