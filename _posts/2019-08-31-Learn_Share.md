@@ -16,7 +16,18 @@ excerpt-image: '<img src="../../assets/images/learn_share.png" width="125" alt="
 
 The goal of the future post is to share knowledge, learn & share, simple & sweet!
 
+As part of WEEKLY's - Business Case Solution, I will post solution (& past solution) from Data Exploration to final Product. Focus is to help aspirants to show DS/ML in real world.
 
+**New Update**
+
+Due to multiple requests - I have to prioritize different use-cases and focus only on the first-cut model
+
+**Time spend by me:** < 10 hours/Week (Busy in office hours; please define your business problem clearly)
+**Fees:** FREE
+**Reach-out:** yashkarwa.ms@gmail.com
+**Data:** Proprietary data (code will not be shared on Github)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. **Future Post Context**: Primarly, I would focus on how would you take the Data Science + ML from Academia to Business settings in Solving a problem includes Technical, Business and Product Management.
 
 2. **Academia & Industry Experience**: 10+ Years of Experience in Data Analytics.
@@ -33,7 +44,7 @@ The goal of the future post is to share knowledge, learn & share, simple & sweet
     - Transition Business Problem to ML/DS Problem.
 	- Define Value of solving problem in business context. Think of like a independent consultant!
 	- Define end-to-end Lifecycle from data analytics, ML and optimization..
-	- Show first cut model.
+	- Show first cut model. You can extend the model and solution.
 	 
 5.  **New blog & content cadence**: 
 
