@@ -1,7 +1,7 @@
 ---
 bg: "Human_Recognization_Smartphones.jpg"
 layout: post
-date: 2019-06-27
+date: 2019-09-29
 mathjax: true
 title: "Human Activity Recognition Using Smartphones"
 crawlertitle: "Human Activity Recognition Using Smartphones"
