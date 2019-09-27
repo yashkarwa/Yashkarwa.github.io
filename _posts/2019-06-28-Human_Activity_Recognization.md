@@ -50,8 +50,8 @@ import seaborn as sns
 
 
 ```python
-test  = pd.read_csv("C:/Users/YXK4525.AMER/OneDrive - The Home Depot/Desktop/Personal Documents/Learning/Kaggle/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/test.csv")  
-train  = pd.read_csv("C:/Users/YXK4525.AMER/OneDrive - The Home Depot/Desktop/Personal Documents/Learning/Kaggle/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/train.csv")  
+test  = pd.read_csv("/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/test.csv")  
+train  = pd.read_csv("/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/train.csv")  
 ```
 
 ### Explore DA
@@ -318,10 +318,8 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     Creating plot for this t-sne visualization..
     
 
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\seaborn\regression.py:546: UserWarning: The `size` paramter has been renamed to `height`; please update your code.
-      warnings.warn(msg, UserWarning)
-    
 
+    
     saving this plot as image in present working directory...
     
 
@@ -371,8 +369,7 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     Creating plot for this t-sne visualization..
     
 
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\seaborn\regression.py:546: UserWarning: The `size` paramter has been renamed to `height`; please update your code.
-      warnings.warn(msg, UserWarning)
+
     
 
     saving this plot as image in present working directory...
@@ -424,8 +421,6 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     Creating plot for this t-sne visualization..
     
 
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\seaborn\regression.py:546: UserWarning: The `size` paramter has been renamed to `height`; please update your code.
-      warnings.warn(msg, UserWarning)
     
 
     saving this plot as image in present working directory...
@@ -477,8 +472,6 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     Creating plot for this t-sne visualization..
     
 
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\seaborn\regression.py:546: UserWarning: The `size` paramter has been renamed to `height`; please update your code.
-      warnings.warn(msg, UserWarning)
     
 
     saving this plot as image in present working directory...
@@ -530,8 +523,6 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     Creating plot for this t-sne visualization..
     
 
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\seaborn\regression.py:546: UserWarning: The `size` paramter has been renamed to `height`; please update your code.
-      warnings.warn(msg, UserWarning)
     
 
     saving this plot as image in present working directory...
@@ -764,15 +755,8 @@ model
 model.fit(X_train, y_train)
 ```
 
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
-      FutureWarning)
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\sklearn\linear_model\logistic.py:460: FutureWarning: Default multi_class will be changed to 'auto' in 0.22. Specify the multi_class option to silence this warning.
-      "this warning.", FutureWarning)
+
     
-
-
-
-
     LogisticRegression(C=10, class_weight=None, dual=False, fit_intercept=True,
               intercept_scaling=1, max_iter=100, multi_class='warn',
               n_jobs=None, penalty='l2', random_state=None, solver='warn',
@@ -817,10 +801,7 @@ model_cv.fit(X_train, y_train)
 
     [Parallel(n_jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
     [Parallel(n_jobs=-1)]: Done  36 out of  36 | elapsed:   49.6s finished
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\sklearn\linear_model\logistic.py:433: FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning.
-      FutureWarning)
-    C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\sklearn\linear_model\logistic.py:460: FutureWarning: Default multi_class will be changed to 'auto' in 0.22. Specify the multi_class option to silence this warning.
-      "this warning.", FutureWarning)
+
     
 
 
@@ -1806,8 +1787,8 @@ scaler = StandardScaler()
 
 
 ```python
-test_df  = pd.read_csv("C:/Users/YXK4525.AMER/OneDrive - The Home Depot/Desktop/Personal Documents/Learning/Kaggle/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/test.csv")  
-train_df  = pd.read_csv("C:/Users/YXK4525.AMER/OneDrive - The Home Depot/Desktop/Personal Documents/Learning/Kaggle/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/train.csv")  
+test_df  = pd.read_csv("/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/test.csv")  
+train_df  = pd.read_csv("/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/train.csv")  
 ```
 
 
@@ -2310,49 +2291,6 @@ test_df = test_df.drop("subject", axis=1)
 ```
 
 
-    ---------------------------------------------------------------------------
-
-    KeyError                                  Traceback (most recent call last)
-
-    <ipython-input-205-7fcb1f8c325c> in <module>
-    ----> 1 train_df = train_df.drop("subject", axis=1)
-          2 test_df = test_df.drop("subject", axis=1)
-    
-
-    ~\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\frame.py in drop(self, labels, axis, index, columns, level, inplace, errors)
-       3938                                            index=index, columns=columns,
-       3939                                            level=level, inplace=inplace,
-    -> 3940                                            errors=errors)
-       3941 
-       3942     @rewrite_axis_style_signature('mapper', [('copy', True),
-    
-
-    ~\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\generic.py in drop(self, labels, axis, index, columns, level, inplace, errors)
-       3778         for axis, labels in axes.items():
-       3779             if labels is not None:
-    -> 3780                 obj = obj._drop_axis(labels, axis, level=level, errors=errors)
-       3781 
-       3782         if inplace:
-    
-
-    ~\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\generic.py in _drop_axis(self, labels, axis, level, errors)
-       3810                 new_axis = axis.drop(labels, level=level, errors=errors)
-       3811             else:
-    -> 3812                 new_axis = axis.drop(labels, errors=errors)
-       3813             result = self.reindex(**{axis_name: new_axis})
-       3814 
-    
-
-    ~\AppData\Local\Continuum\anaconda3\lib\site-packages\pandas\core\indexes\base.py in drop(self, labels, errors)
-       4963             if errors != 'ignore':
-       4964                 raise KeyError(
-    -> 4965                     '{} not found in axis'.format(labels[mask]))
-       4966             indexer = indexer[~mask]
-       4967         return self.delete(indexer)
-    
-
-    KeyError: "['subject'] not found in axis"
-
 
 
 ```python
@@ -2441,10 +2379,7 @@ model.add(Dense(6, activation='softmax'))
 
 ```
 
-    W0630 17:36:45.849806 10356 deprecation.py:506] From C:\Users\YXK4525.AMER\AppData\Local\Continuum\anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:3445: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
-    Instructions for updating:
-    Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
-    
+  
 
 
 ```python
