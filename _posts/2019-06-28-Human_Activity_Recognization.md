@@ -52,9 +52,9 @@ The activity tracked by each particpants are:
 - LAYING
 
 
-Data is avaoble in UCI repository : https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
+[Data is available in UCI repository] (https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer)
 
-For more reading : https://link.springer.com/chapter/10.1007/978-3-642-21257-4_36
+[For more reading] (https://link.springer.com/chapter/10.1007/978-3-642-21257-4_36)
 
 
 <b> To build out model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.</b>
