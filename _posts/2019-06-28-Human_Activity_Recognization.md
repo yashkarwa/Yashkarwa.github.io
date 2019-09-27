@@ -203,7 +203,7 @@ plt.show()
 ```
 
 
-![png](output_11_0.png)
+![png](/assets/images/output_11_0.png)
 
 
 
