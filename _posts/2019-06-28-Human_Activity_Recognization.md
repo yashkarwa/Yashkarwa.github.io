@@ -2592,7 +2592,7 @@ print(classification_report(y_test, pred))
     
     
 
-> <b>Deep learning models </b> is below the accuracy of basic ML models
+<b>Deep learning models </b> is below the accuracy of basic ML model.
 
 
 ### Next Steps
