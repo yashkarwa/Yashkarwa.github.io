@@ -203,11 +203,11 @@ plt.show()
 ```
 
 
-![png](/assets/images/output_11_0.png)
+![png](/assets/images/HAR/output_11_0.png)
 
 
 
-![png](output_11_1.png)
+![png](/assets/images/HAR/output_11_1.png)
 
 
 ### Duplicate data?
@@ -324,7 +324,7 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     
 
 
-![png](output_19_3.png)
+![png](/assets/images/HAR/output_19_3.png)
 
 
     Done
@@ -376,7 +376,7 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     
 
 
-![png](output_19_7.png)
+![png](/assets/images/HAR/output_19_7.png)
 
 
     Done
@@ -427,7 +427,7 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     
 
 
-![png](output_19_11.png)
+![png](/assets/images/HAR/output_19_11.png)
 
 
     Done
@@ -478,7 +478,7 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     
 
 
-![png](output_19_15.png)
+![png](/assets/images/HAR/output_19_15.png)
 
 
     Done
@@ -529,7 +529,7 @@ perform_tsne(X_data = X_pre_tsne,y_data=y_pre_tsne, perplexities =[2,5,10,20,50]
     
 
 
-![png](output_19_19.png)
+![png](/assets/images/HAR/output_19_19.png)
 
 
     Done
@@ -1164,7 +1164,7 @@ lr_svc_grid_results = perform_model(lr_svc_grid, X_train, y_train, X_test, y_tes
     
 
 
-![png](output_44_3.png)
+![png](/assets/images/HAR/output_44_3.png)
 
 
     -------------------------
@@ -1268,7 +1268,7 @@ rbf_svm_grid_results = perform_model(rbf_svm_grid, X_train, y_train, X_test, y_t
     
 
 
-![png](output_47_1.png)
+![png](/assets/images/HAR/output_47_1.png)
 
 
     -------------------------
@@ -1372,7 +1372,7 @@ print_grid_search_attributes(dt_grid_results['model'])
     
 
 
-![png](output_50_1.png)
+![png](/assets/images/HAR/output_50_1.png)
 
 
     -------------------------
@@ -1471,7 +1471,7 @@ print_grid_search_attributes(rfc_grid_results['model'])
     
 
 
-![png](output_52_1.png)
+![png](/assets/images/HAR/output_52_1.png)
 
 
     -------------------------
@@ -1572,7 +1572,7 @@ print_grid_search_attributes(gbdt_grid_results['model'])
     
 
 
-![png](output_54_1.png)
+![png](/assets/images/HAR/output_54_1.png)
 
 
     -------------------------
@@ -1674,7 +1674,7 @@ print_grid_search_attributes(knn_grid_results['model'])
     
 
 
-![png](output_56_1.png)
+![png](/assets/images/HAR/output_56_1.png)
 
 
     -------------------------
