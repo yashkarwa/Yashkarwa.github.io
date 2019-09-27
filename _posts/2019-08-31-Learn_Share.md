@@ -18,13 +18,13 @@ The goal of the future post is to share knowledge, learn & share, simple & sweet
 
 As part of WEEKLY's - Business Case Solution, I will post solution (& past solution) from Data Exploration to final Product. Focus is to help aspirants to show DS/ML in real world.
 
-**New Update**
+**New Update :9/26**
 
 Due to multiple requests - I have to prioritize different use-cases and focus only on the first-cut model
 
 1. **Time spend by me:** < 10 hours/Week (Busy in office hours; please define your business problem clearly)
 2. **Fees:** FREE
-3. **Reach-out:** <a>yashkarwa.ms@gmail.com<\a>
+3. **Reach-out:** <a>yashkarwa.ms@gmail.com</a>
 4. **Data:** Proprietary data (code will not be shared on Github)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
