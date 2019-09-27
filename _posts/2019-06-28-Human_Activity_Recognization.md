@@ -18,26 +18,50 @@ excerpt-image: '<img src="../../assets/images/Human_Recognization_Smartphones.jp
 
 # Introduction
 
-The first business case : I would like to start with the human activity of smartphone data. 
+Human activity recognition is the intresting problem of classifying sequences of accelerometer data recorded by smart phones into known well-defined movements.
 
-I am intrigued to look at UCI Machine learning - Human Activity Recognization. The project is based on 30 participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+It is a challenging problem given the large number of observations produced each second, the temporal nature of the observations, and the lack of a clear way to relate accelerometer data to known movements.
 
-### Project Experiment Details
+The difficulty is that this feature engineering requires deep expertise in the field. I would like to explore without bein an expert in sensor and tracking how well we can solve this problem.
 
-As mentioned, experiment was done by 30 people with an age of 19-48 using Samsung Galaxy on the waist with embedded accelerometer and gyroscope (sensar signals).
+After completing the business case, you will learn:
+
+1. How to load unseen human activity recognition data
+2. How to explore the data using simple stats and t-SNE
+3. How to apply Machine learning techniques including touch on deep learning.
+4. Use general purpose Grid Search function, measure success of models using classification report, confusion matrix and others
+5. How to extend the model developements - future steps.
+
+Prerequisite:
+You should have fair understanding of python, basics of machine learning and deep learning.
+
+
+
+
+### Project Description 
+
+The project is based on 30 participants with an age of 19-48 to performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
 The activity tracked by each particpants are:
 
 - WALKING,
 - WALKING_UPSTAIRS,
--  WALKING_DOWNSTAIRS,
+- WALKING_DOWNSTAIRS,
 - SITTING, 
 - STANDING,
 - LAYING
 
 
+Data is avaoble in UCI repository : https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer
 
-<i>Disclamier : I have not worked in Sensar and tracking, so i'm not an expert in this domain! </i>
+For more reading : https://link.springer.com/chapter/10.1007/978-3-642-21257-4_36
+
+
+<b> To build out model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.</b>
+
+
+<i>Disclamier : I have not worked in Sensar and tracking, so i'm not an expert in this domain.</i>
+
 
 ### Data
 
@@ -1049,7 +1073,7 @@ log_reg_grid_results =  perform_model(log_reg_grid, X_train, y_train, X_test, y_
     
 
 
-![png](output_40_3.png)
+![png](/assets/images/HAR/output_40_3.png)
 
 
     -------------------------
@@ -2525,7 +2549,7 @@ plt.show()
 ```
 
 
-![png](output_81_0.png)
+![png](/assets/images/HAR/output_81_0.png)
 
 
 
