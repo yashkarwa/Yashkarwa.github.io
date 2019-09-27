@@ -26,15 +26,14 @@ The difficulty is that this feature engineering requires deep expertise in the f
 
 After completing the business case, you will learn:
 
-1. How to load unseen human activity recognition data
-2. How to explore the data using simple stats and t-SNE
-3. How to apply Machine learning techniques including touch on deep learning.
-4. Use general purpose Grid Search function, measure success of models using classification report, confusion matrix and others
+1. How to load unseen human activity recognition data?
+2. How to explore the data using simple stats and t-SNE?
+3. How to apply Machine learning techniques including touch on deep learning?
+4. Use general purpose Grid Search function, measure success of models using classification report, confusion matrix and others?
 5. How to extend the model developements - future steps.
 
 Prerequisite:
 You should have fair understanding of python, basics of machine learning and deep learning.
-
 
 
 
@@ -52,15 +51,15 @@ The activity tracked by each particpants are:
 - LAYING
 
 
-[Data is available in UCI repository] (https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer)
+[Data is available in UCI repository](https://archive.ics.uci.edu/ml/datasets/Activity+Recognition+from+Single+Chest-Mounted+Accelerometer)
 
-[For more reading] (https://link.springer.com/chapter/10.1007/978-3-642-21257-4_36)
+[For more reading](https://link.springer.com/chapter/10.1007/978-3-642-21257-4_36)
 
 
 <b> To build out model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.</b>
 
 
-<i>Disclamier : I have not worked in Sensar and tracking, so i'm not an expert in this domain.</i>
+<i>Disclamier : I have not worked in Sensar and tracking, so i'm not an expert in this domain. However, ML + domain knowledge is so powerful!</i>
 
 
 ### Data
@@ -2594,3 +2593,11 @@ print(classification_report(y_test, pred))
     
 
 > <b>Deep learning models </b> is below the accuracy of basic ML models
+
+
+### Next Steps
+
+1. Explore more on feature engineering
+2. Expand on deep learning models
+3. Productize the model, build an application and host on heroku /render
+
