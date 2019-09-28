@@ -77,7 +77,7 @@ test  = pd.read_csv("/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/tes
 train  = pd.read_csv("/HumanActivityRecognition/HAR/UCI_HAR_Dataset/csv_files/train.csv")  
 ```
 
-### Explore DA
+### Data Exploration
 
 
 ```python
