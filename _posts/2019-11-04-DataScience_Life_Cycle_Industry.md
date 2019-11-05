@@ -91,5 +91,6 @@ Below are the steps of the newly adopted framework. In essence, it's an extensio
 
 Reference:
 
-[https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
-[https://www.business-science.io/bspf.html](https://www.business-science.io/bspf.html)
+ - [https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
+   
+ - [https://www.business-science.io/bspf.html](https://www.business-science.io/bspf.html)
