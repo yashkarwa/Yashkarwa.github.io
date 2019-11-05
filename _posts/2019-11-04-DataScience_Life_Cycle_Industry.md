@@ -20,6 +20,10 @@ Below are the steps of the newly adopted framework. In essence, it's an extensio
 
 '<img src="../../assets/images/DS_LifeCycle_Industry.PNG" width="750" alt="Data Science Framework in Industry" title="Data Science Framework in Industry">
 
+
+Below is the overview of DS framework:
+
+
 1. Business Requirement
 
 		- Define Objectives
