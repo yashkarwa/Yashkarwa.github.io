@@ -18,7 +18,7 @@ Well, I don't want to go over another post on Data Science framework that you ca
 
 Below are the steps of the newly adopted framework. In essence, it's an extension of CRISP-DM. It is the sequence of the phases and is not strict and moving back and forth between different stages as it is always required.
 
-'<img src="../../assets/images/DS_LifeCycle_Industry.PNG" width="500" alt="Data Science Framework in Industry" title="Data Science Framework in Industry">
+'<img src="../../assets/images/DS_LifeCycle_Industry.PNG" width="750" alt="Data Science Framework in Industry" title="Data Science Framework in Industry">
 
 1. Business Requirement
 
