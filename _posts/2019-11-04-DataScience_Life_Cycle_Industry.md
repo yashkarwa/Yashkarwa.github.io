@@ -11,7 +11,7 @@ author: Yash Karwa
 twitterImg: 
 excerpt: "The goal of the post is to showcase Data Science Framework - An extension of CRISP-DM"
 excerpt-image: '<img src="../../assets/images/DS Lifecycle.PNG" width="125" alt="Data Science Framework in Industry" title="Data Science Framework in Industry">
-<em> Fake Guru Beware </em>'
+<em> Data Science Lifecycle </em>'
 ---
 
 Well, I don't want to go over another post on Data Science framework that you can find on the Internet by just googling it. I like the CRISP-DM life cycle and widely used and know in the industry. You can find the details [here](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining). However, I see a gap in educational content over the framework widely used in Industry.
