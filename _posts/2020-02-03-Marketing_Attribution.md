@@ -1,5 +1,5 @@
 ---
-bg: "churn_analysis_2.jpg"
+bg: "MA.png"
 layout: post
 date: 2020-02-03
 mathjax: true
@@ -11,7 +11,7 @@ author: Yash Karwa
 jupyter: https://github.com/yashkarwa/
 twitterImg: 
 excerpt: "The goal of the post is to share the practical application of Marketing Attribution"
-excerpt-image: '<img src="../../assets/images/churn_analysis_2.jpg" width="250" alt="Marketing Channel Attribution" title="Marketing Channel Attribution">
+excerpt-image: '<img src="../../assets/images/MA.png" width="250" alt="Marketing Channel Attribution" title="Marketing Channel Attribution">
 <em>Marketing Channel Attribution</em>'
 ---
 
