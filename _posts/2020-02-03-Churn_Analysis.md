@@ -1,7 +1,7 @@
 ---
 bg: "churn_analysis_2.jpg"
 layout: post
-date: 2020-02-23
+date: 2020-02-03
 mathjax: true
 title: "Customer Churn"
 crawlertitle: "Customer Churn"
@@ -2153,5 +2153,7 @@ Our model provides an indication of which users are likely to churn. I have purp
 I would like to include the time it takes for churn - Survival analysis in the next project with possibly different data set to showcase different acceptance of problem-solving skills. Also,  we have open-ended emphasis to get a sense of bit-likely customer likely to churn.
 
 
+# 6 Next Steps
 
-
+- To include, Interpretability - Local Surrogate (LIME) or Individual Conditional Expectation (ICE)
+- Add additional features like Session details, session duration etc. 
