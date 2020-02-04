@@ -36,9 +36,8 @@ There are multiple Conversion Model that are widely used in Marketing domains. B
 We can use any of the Heuristic Models and mostly used in the industry is the **Last Touch** Model. The problem in the heuristic model is not to consider all the different channels from the application, which will hurt the overall conversion funnel. 
 
 
-<https://github.com/MatCyt/Markov-Chain>
-
-![png](/assets/images/MA/AttributionApproach.PNG)
+![png](/assets/images/MA/AttributionApproach.png)
+source: <https://github.com/MatCyt/Markov-Chain>
 
 The solution in this case study is to capture the whole journey by using **Markov Chain**. 
 
