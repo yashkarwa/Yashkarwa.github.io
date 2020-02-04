@@ -1,7 +1,7 @@
 ---
 bg: "churn_analysis_2.jpg"
 layout: post
-date: 2019-09-29
+date: 2020-02-23
 mathjax: true
 title: "Customer Churn"
 crawlertitle: "Customer Churn"
