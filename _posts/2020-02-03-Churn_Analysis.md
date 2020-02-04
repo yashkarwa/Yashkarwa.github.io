@@ -288,7 +288,7 @@ dataset.head()
 
 ----------------------------------------------
 
-# 4. Exploration Data Analysis (EDA)
+# 3. Exploration Data Analysis (EDA)
 
 
 ```python
@@ -2145,6 +2145,7 @@ print('Xgboost             : {:.04}%    {:.04}%    {:.04}% '.format(xgboost_grid
     GradientBoosting DT : 69.26%    67.34%    30.74% 
     XGBOOST             : 67.68%    65.29%    32.32% 
     
+----------------
 
 # 5 Conclusion
 
@@ -2152,6 +2153,7 @@ Our model provides an indication of which users are likely to churn. I have purp
 
 I would like to include the time it takes for churn - Survival analysis in the next project with possibly different data set to showcase different acceptance of problem-solving skills. Also,  we have open-ended emphasis to get a sense of bit-likely customer likely to churn.
 
+----------------
 
 # 6 Next Steps
 
