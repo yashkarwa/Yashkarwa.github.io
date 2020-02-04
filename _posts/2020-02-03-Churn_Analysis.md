@@ -8,7 +8,7 @@ crawlertitle: "Customer Churn"
 categories: posts
 tags: ['customer', 'data', 'churn', 'bank']
 author: Yash Karwa
-jupyter: https://github.com/yashkarwa/
+jupyter: https://github.com/yashkarwa/Marketing_Analytics/blob/master/Churn%20Analysis/Churn%20Analysis%20v2.0.ipynb
 twitterImg: 
 excerpt: "The goal of the post is to share the practical application of Customer Churn "
 excerpt-image: '<img src="../../assets/images/churn_analysis_2.jpg" width="250" alt="Churn Analysis" title="Churn Analysis">

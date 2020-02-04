@@ -8,7 +8,7 @@ crawlertitle: "Marketing Channel Attribution"
 categories: posts
 tags: ['customer', 'data', 'marketing', 'attribution', 'heuristic', 'markov']
 author: Yash Karwa
-jupyter: https://github.com/yashkarwa/
+jupyter: https://github.com/yashkarwa/Marketing_Analytics/tree/master/Marketing%20Attribution%20Model
 twitterImg: 
 excerpt: "The goal of the post is to share the practical application of Marketing Attribution"
 excerpt-image: '<img src="../../assets/images/MA.png" width="250" alt="Marketing Channel Attribution" title="Marketing Channel Attribution">
