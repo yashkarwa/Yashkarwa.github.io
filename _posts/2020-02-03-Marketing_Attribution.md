@@ -36,7 +36,9 @@ There are multiple Conversion Model that are widely used in Marketing domains. B
 We can use any of the Heuristic Models and mostly used in the industry is the **Last Touch** Model. The problem in the heuristic model is not to consider all the different channels from the application, which will hurt the overall conversion funnel. 
 
 
-![Source <https://github.com/MatCyt/Markov-Chain>](AttributionApproach.PNG)
+![Source <https://github.com/MatCyt/Markov-Chain>](/assets/images/MA/AttributionApproach.PNG)
+
+
 
 The solution in this case study is to capture the whole journey by using **Markov Chain**. 
 
@@ -153,11 +155,7 @@ library(tidyquant)
 ## Version 0.4-0 included new data defaults. See ?getSymbols.
 ```
 
-```
-## == Need to Learn tidyquant? ==========================================================================================================
-## Business Science offers a 1-hour course - Learning Lab #9: Performance Analysis & Portfolio Optimization with tidyquant!
-## </> Learn more at: https://university.business-science.io/p/learning-labs-pro </>
-```
+
 
 ```r
 library(lubridate)
