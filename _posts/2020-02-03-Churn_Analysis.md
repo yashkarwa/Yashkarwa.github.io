@@ -2153,7 +2153,5 @@ Our model provides an indication of which users are likely to churn. I have purp
 I would like to include the time it takes for churn - Survival analysis in the next project with possibly different data set to showcase different acceptance of problem-solving skills. Also,  we have open-ended emphasis to get a sense of bit-likely customer likely to churn.
 
 
-```python
 
-```
 
