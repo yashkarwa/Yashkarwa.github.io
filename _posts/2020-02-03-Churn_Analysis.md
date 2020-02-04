@@ -6,7 +6,7 @@ mathjax: true
 title: "Customer Churn"
 crawlertitle: "Customer Churn"
 categories: posts
-tags: ['customer', 'data', 'human', 'smartphone']
+tags: ['customer', 'data', 'churn', 'bank']
 author: Yash Karwa
 jupyter: https://github.com/yashkarwa/
 twitterImg: 
