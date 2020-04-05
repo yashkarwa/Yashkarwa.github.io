@@ -1,0 +1,27 @@
+---
+bg: ""
+layout: post
+date: 2020-04-05
+mathjax: true
+title: "Data Science in Real World -1"
+crawlertitle: "DS & Lifecycle"
+categories: posts
+tags: ['DataScience', 'Framework', "real", "world"]
+author: Yash Karwa
+twitterImg: 
+excerpt: "The goal of the post is to showcase Data Science in Real world"
+excerpt-image: '<img src="../../assets/images/DS Lifecycle.PNG" width="125" alt="Data Science in real world" title="Data Science in real world">
+<em> Data Science in Real World </em>'
+---
+I see a couple of Challenges I see in the courses and Real-time. The primary focus of the data science should be to provide the Business value. In addition to that, it should not only be just a notebook/ standalone script which cannot be reproducible or scalable. Think of building an end-to-end from data analysis to building a data Product. 
+
+'<img src="../../assets/images/real-world/Introduction.PNG"  alt="Focus in real world" title="Focus in real world">
+
+
+
+'<img src="../../assets/images/DS_LifeCycle_Industry.PNG" width="750" alt="Data Science Framework in Industry" title="Data Science Framework in Industry">
+
+
+
+
+
