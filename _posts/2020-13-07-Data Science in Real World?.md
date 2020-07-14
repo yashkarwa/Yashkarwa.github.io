@@ -1,20 +1,20 @@
 ---
 bg: ""
 layout: post
-date: 2020-04-05
+date: 2020-13-07
 mathjax: true
-title: "Data Science in Real World"
+title: "Do Data Scientist needs to be a programmer?"
 crawlertitle: "DS & Lifecycle"
 categories: posts
 tags: ['DataScience', 'Framework', 'real', 'world']
 author: Yash Karwa
 twitterImg: 
-excerpt: "The goal of the post is to showcase Data Science in Real world"
+excerpt: "The goal of the post is to showcase programming value of Data Science"
 excerpt-image: '<img src="../../assets/images/DS Lifecycle.PNG" width="125" alt="Data Science in real world" title="Data Science in real world">
-<em> Data Science in Real World </em>'
+<em> Do Data Scientist needs to be a programmer? </em>'
 ---
 
-I see a couple of Challenges, I see in the courses vs. Real-time. The primary focus of the data science should be to provide the Business value. In addition to that, it should not only be just a notebook/ standalone script which cannot be reproducible or scalable. Think of building an end-to-end from data analysis to building a data Product. 
+You don't need to be a great programmer, but you need to be a good programmer with the right habits and industry skills. 
 
 ### Challenges in the real world
 
