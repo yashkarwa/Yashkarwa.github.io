@@ -10,7 +10,7 @@ tags: ['DataScience', 'Framework', 'real', 'world', 'programmer']
 author: Yash Karwa
 twitterImg: 
 excerpt: "The goal of the post is to showcase programming value in Data Science"
-excerpt-image: '<img src="../../assets/images/code.PNG" width="125" alt="Data Science in real world" title="Data Science in real world">
+excerpt-image: '<img src="../../assets/images/code.png" width="220" alt="Data Science in real world" title="Data Science in real world">
 <em> Do Data Scientist needs to be a programmer? </em>'
 ---
 
