@@ -1,7 +1,7 @@
 ---
 bg: ""
 layout: post
-date: 2020-13-07
+date: 2020-07-13
 mathjax: true
 title: "Do Data Scientist needs to be a programmer?"
 crawlertitle: "DS & Lifecycle"
