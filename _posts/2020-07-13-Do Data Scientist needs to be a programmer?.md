@@ -6,63 +6,41 @@ mathjax: true
 title: "Do Data Scientist needs to be a programmer?"
 crawlertitle: "DS & Lifecycle"
 categories: posts
-tags: ['DataScience', 'Framework', 'real', 'world']
+tags: ['DataScience', 'Framework', 'real', 'world', 'programmer']
 author: Yash Karwa
 twitterImg: 
-excerpt: "The goal of the post is to showcase programming value of Data Science"
+excerpt: "The goal of the post is to showcase programming value in Data Science"
 excerpt-image: '<img src="../../assets/images/DS Lifecycle.PNG" width="125" alt="Data Science in real world" title="Data Science in real world">
 <em> Do Data Scientist needs to be a programmer? </em>'
 ---
 
-You don't need to be a great programmer, but you need to be a good programmer with the right habits and industry skills. 
+_You don't need to be a great programmer, but you need to be a good programmer with the right habits and industry skills_.
 
-### Challenges in the real world
+Before going into details, some thoughts!
 
-<img src="../../assets/images/real-world/Introduction.PNG"  alt="Challenges in the real world" title="Challenges in the real world">
+> I have observed, heard, and witnessed that as Data Scientist, my job is not to make code ready for **productionalization**. It is fair for the companies that have a proper team with roles define. But, lots of companies (including big ones) are still in the process of scalable AI/ML adoption.
 
-------------
+  
 
-### ML in Production
+> For companies in AI/ML adoption phase - As a data scientist, your job is not merely to run production pipelines / models as adhoc scripts in Jupyter / R script.
 
-<img src="../../assets/images/real-world/2- Introduction.PNG"  alt="ML in Production" title="ML in Production">
+Some of the easy steps a Data Scientist can do:
 
-Read more here: <https://pythonawesome.com/a-guide-to-production-level-deep-learning/>
+-   Move out from Jupyter / R Adhoc scripts as soon as the business is consuming your results.
+-   Keep code clean with not many details in the comments, avoid printing variables, remove a block of code that is not useful.
+-   Use functions to abstract the complexity and reusability, readability, and testing.
 
-------------
+_**Productionalization of ML products is essential. Think of Scaling is necessary!**_
 
-### Few points for ML in real-world
+A couple of next steps that you should take:
 
-<img src="../../assets/images/real-world/3 - Focus.PNG"  alt="Few points for ML in real-world" title="Few points for ML in real-world">
+-   Learn about Model Training - Real-time vs. Batch
+-   Learn about Model Serving - Online Steaming using Kafka / Spark; building APIs modules and Device edge modeling (based on business use-cases)
+-   Learn about Model Monitor and maintenance.
 
+Embrace the technology - Docker, Kubernetes, Continuous Integration and Deployment, Monitoring tools.
 
-------------
+You don't need to be an expert in all these technologies. Work with your Software Engineers team - Teamwork is the dream work!
 
-### Data Science Framework in Industry
-<img src="../../assets/images/DS_LifeCycle_Industry.PNG" alt="Data Science Framework in Industry" title="Data Science Framework in Industry">
-
-Previous blog post detail: <https://yashkarwa.github.io/posts/DataScience_Life_Cycle_Industry/>
-
-------------
-
-### Roles need to play in Data Science
-<img src="../../assets/images/real-world/5 - Roles Defined.PNG" alt="Roles need to play in Data Science" title="Roles need to play in Data Science">
-
-------------
-
-### Next Steps
-
-I will summarize the skills by providing links or quick materials  into primary ones:
-
-- Data Analysis
-- Machine Learning 
-- Business Analysis
-
-Also, the required skills set for real-world:
-
-- Engineering -Software/ DevOps
-- Data Engineering 
-- Product Manager
-
-Again as highlighted, you don't need to be an expert in each of the fields. You should be good enough to be productive. More to come... 
-
-
+**Next Step**:
+ > Introductory Session for Flask 
