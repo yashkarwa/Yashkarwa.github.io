@@ -80,7 +80,13 @@ The output file is the feather file and will be our source of Truth!
 
 I will go with online editor - [https://editor.swagger.io/](https://editor.swagger.io/)
 
+
+For our starting guide - We are building an API end-point for earthquake data we creating nd the intension is to pass the ID, which is earthquake ID and received information, which is in the data file.
+
 <img src="../../assets/images/blackboard_series_1.PNG"  alt="High-level Overview" title="High-level Overview">
+
+
+Below is the snapshot from the online editor and response. I have also hand-coded what those lines mean and how you can interpret them. It is the first example of a kick-start. Feel free to expand your knowledge by looking into the documentation page: https://swagger.io/docs/specification/basic-structure/
 
 
 <img src="../../assets/images/API_1.png"  alt="Snapshot from Online Editor" title="Snapshot from Online Editor">
