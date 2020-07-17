@@ -1,5 +1,5 @@
 ---
-bg: "Headshot.png"
+bg: "Headshot2.png"
 layout: post
 date: 2020-07-16
 mathjax: true
