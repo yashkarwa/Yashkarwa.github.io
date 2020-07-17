@@ -80,5 +80,7 @@ The output file is the feather file and will be our source of Truth!
 
 I will go with online editor - [https://editor.swagger.io/](https://editor.swagger.io/)
 
+<img src="../../assets/images/blackboard_series_1.PNG"  alt="High-level Overview" title="High-level Overview">
+
 
 <img src="../../assets/images/API_1.png"  alt="Snapshot from Online Editor" title="Snapshot from Online Editor">
