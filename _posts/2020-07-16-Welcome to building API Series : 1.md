@@ -10,7 +10,7 @@ tags: ['api', 'Framework', 'swagger', 'world', 'programmer']
 author: Yash Karwa
 twitterImg: 
 excerpt: "Welcome to building API Series"
-excerpt-image: '<img src="../../assets/images/code.png" width="220" alt="Welcome to building API Series -1" title="Welcome to building API Series -1">
+excerpt-image: '<img src="../../assets/images/Headshot.png" width="220" alt="Welcome to building API Series -1" title="Welcome to building API Series -1">
 <em> Welcome to building API Series - 1 </em>'
 ---
 
