@@ -14,8 +14,6 @@ excerpt-image: '<img src="../../assets/images/code.png" width="220" alt="Welcome
 <em> Welcome to building API Series - 1 </em>'
 ---
 
-# Welcome to building API Series- 1
-
 I want to introduce the first contract approach. The contract is just documentation - You need to work with the consumer to define the response.
 
   
