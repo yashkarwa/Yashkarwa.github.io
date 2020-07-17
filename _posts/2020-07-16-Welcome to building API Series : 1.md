@@ -14,13 +14,13 @@ excerpt-image: '<img src="../../assets/images/Headshot.png" width="220" alt="Wel
 <em> Welcome to building API Series - 1 </em>'
 ---
 
-I want to introduce the first contract approach. The contract is just documentation - You need to work with the consumer to define the response.
+I want to introduce the first contract approach. The contract is just documentation - You need to work with the consumer to define the response results.
 
   
-> **Don't write code; work early on the requested response.**
+> **Don't write code; work early on the expected response.**
 
   
-The question is, what should be the right contract or documentation should be?
+The question is, what should be the right form of contract or documentation should be?
 
   
 One of the widely contract specs use in the industry is Open API or Swagger documentation. This blog will introduce how to write contractor - Swagger can be in YAML or JSON.
