@@ -80,4 +80,5 @@ The output file is the feather file and will be our source of Truth!
 
 I will go with online editor - [https://editor.swagger.io/](https://editor.swagger.io/)
 
-![snapshot from online editor](https://github.com/yashkarwa/Yashkarwa.github.io/blob/master/assets/images/API_1.png)
+
+<img src="../../assets/images/API_1.PNG"  alt="Snapshot from Online Editor" title="Snapshot from Online Editor">
